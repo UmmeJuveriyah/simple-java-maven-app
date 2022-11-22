@@ -23,7 +23,7 @@ agent any
         }
        stage('Completed') {
             steps {
-           echo"completed the stage"
+           echo 'completed the stage'
             }
        }
     }
